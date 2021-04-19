@@ -46,7 +46,7 @@
     "react": "^15.7.0",
     "react-dom": "^15.7.0",
     "react-jsonschema-form": "^0.51.0",
-    "react-modal": "^3.12.1",
+    "react-modal": "^3.13.1",
     "react-router-dom": "^5.2.0",
     "react-url-query": "^1.5.0",
     "tabulator-tables": "^4.9.3",
