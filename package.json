@@ -82,6 +82,6 @@
     "sinon-chai": "^3.6.0",
     "style-loader": "^2.0.0",
     "webpack": "^3.12.0",
-    "webpack-node-externals": "^2.5.2"
+    "webpack-node-externals": "^3.0.0"
   }
 }
